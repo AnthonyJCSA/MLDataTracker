@@ -1,0 +1,9 @@
+{
+    "model_paths": {
+        "train_data": "/path/to/train_data.parquet",
+        "test_data": "/path/to/test_data.parquet",
+        "oot_data": "/path/to/oot_data.parquet",
+        "model_variables_csv": "/path/to/model_variables.csv"
+    },
+    "model_name": "ModeloEjemplo"
+}
