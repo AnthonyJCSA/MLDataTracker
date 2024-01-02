@@ -8,6 +8,7 @@ y la mejora en la legibilidad y mantenimiento del código.
 - Python 3.x
 - PySpark
 - Pandas
+- - archivo requirements
 
 ## Configuración
 Antes de ejecutar el script, asegúrate de tener un archivo `config.json` en el mismo directorio. Este archivo debe contener las rutas a los datos y cualquier otra configuración relevante para el script.
